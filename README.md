@@ -5,6 +5,7 @@
 - 👯 Collaborating on [typeorm-seeding](https://github.com/jorgebodega/typeorm-seeding) and [dotpyle](https://github.com/jorgebodega/dotpyle)
 - 🍺 Craft beer lover
 - 🏉 Former rugby player
+- ⌨️ Holy panda clicky clicky
 
 ### Connect with me:
 
