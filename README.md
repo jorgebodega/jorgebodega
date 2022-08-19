@@ -2,7 +2,7 @@
 
 - 🍋 Working as Backend Developer on [Acid Tango][acid]
 - 📖 Learning about DDD and Hexagonal Architecture
-- 👯 Collaborating on [typeorm-seeding](https://github.com/jorgebodega/typeorm-seeding) and [dotpyle](https://github.com/jorgebodega/dotpyle)
+- 👯 Collaborating on [typeorm-seeding](https://github.com/jorgebodega/typeorm-seeding), [typeorm-factory](https://github.com/jorgebodega/typeorm-factory) and [dotpyle](https://github.com/jorgebodega/dotpyle)
 - 🍺 Craft beer lover
 - 🏉 Former rugby player
 - ⌨️ Holy panda clicky clicky
