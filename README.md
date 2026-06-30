@@ -1,6 +1,6 @@
 ### Hi there! I'm Jorge!
 
-- 🍋 Working as Backend Developer on [Hiberus](https://www.hiberus.com/)
+- 🍋 Working as Senior Backend Engineer on [Embat](https://www.embat.io/)
 - 📖 Learning about DDD and Hexagonal Architecture
 - 👯 Collaborating on [typeorm-seeding](https://github.com/jorgebodega/typeorm-seeding) and [typeorm-factory](https://github.com/jorgebodega/typeorm-factory)
 - 🍺 Craft beer lover
